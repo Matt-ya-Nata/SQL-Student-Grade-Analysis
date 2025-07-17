@@ -9,7 +9,7 @@ This project demonstrates how to design and query a SQL table that stores studen
 - Stored procedure for inserting records  
 - Logic to retrieve the Nth highest grade  
 - Sample data and queries  
-- Useful for learning SQL concepts and interview prep
+- Useful for learning SQL concepts 
 
 ---
 
